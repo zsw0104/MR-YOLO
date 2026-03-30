@@ -14,4 +14,4 @@ This project proposes MR-YOLO, a lightweight model for blood cell detection in m
 4. Train:
 
 ```bash
-python train.py --data your_dataset.yaml --cfg your_model.yaml
+python MR-YOLO/train.py --data your_dataset.yaml --cfg your_model.yaml
