@@ -1,0 +1,10 @@
+path: #yolov8\\data\\Mydata\\ # dataset root dir
+train: images/train # train images (relative to 'path') 128 images
+val: images/val # val images (relative to 'path') 128 images
+test: images/test # test images (optional)
+
+# Classes
+nc: 3
+# names: ['WBC', 'RBC','Platelets']
+names: ['RBC', 'WBC','Platelets'] # CBBD
+# names: ['tumors'] 
