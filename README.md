@@ -9,8 +9,7 @@ This project proposes MR-YOLO, a lightweight model for blood cell detection in m
 
 1. Clone the repo
 2. Install requirements
-3. Prepare your dataset (format: YOLO)
-4. Train:
+3. Train:
 
 ```bash
 python MR-YOLO/train.py
