@@ -4,7 +4,6 @@ This project proposes MR-YOLO, a lightweight model for blood cell detection in m
 ## Code Structure
 
 - `MR-YOLO/`: Based on YOLOv8-nano, integrated with MB-D2CM, RMSPF, MSFFM, and CSB-QAL.
-- Training and evaluation code will be released upon paper acceptance.
 
 ## Usage
 
@@ -14,4 +13,4 @@ This project proposes MR-YOLO, a lightweight model for blood cell detection in m
 4. Train:
 
 ```bash
-python MR-YOLO/train.py --data your_dataset.yaml --cfg your_model.yaml
+python MR-YOLO/train.py
